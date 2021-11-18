@@ -1,3 +1,5 @@
+// This one's unfinished! Oops! I'll fix it when I have enough money to travel to places where the companies are lol
+
 var joinedFactions = new Array();
 var invitedFactions = new Array();
 var factionAugs = new Array();
